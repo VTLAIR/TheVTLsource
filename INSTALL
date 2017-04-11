@@ -1,0 +1,9 @@
+Building VitalAir
+
+See doc/readme-qt.rst for instructions on building VitalAir QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of VitalAir.
+
+See doc/build-*.txt for instructions on building vitalaird,
+the intended-for-services, no-graphical-interface, reference
+implementation of VitalAir.
